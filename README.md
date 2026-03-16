@@ -211,6 +211,6 @@ The insights generated help businesses improve **customer retention, marketing s
 
 # 🔗 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/atharva-waikar-a95a042b5/
-Portfolio: https://yourportfolio.com  
+LinkedIn: https://www.linkedin.com/in/atharva-waikar-a95a042b5/ \n
+Portfolio: https://yourportfolio.com   \n
 GitHub: https://github.com/AtharvaWaikar
